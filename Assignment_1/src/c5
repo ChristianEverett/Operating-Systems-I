@@ -1,0 +1,141 @@
+Running Consumer Process: 20661	time: 14:48:39 dozen: 1
+plain	jelly		coconut		honey-dip
+97		108		92		82		
+98		109		93				
+99		110						
+100		111						
+		112						
+								
+								
+								
+								
+								
+								
+								
+Running Consumer Process: 20661	time: 14:48:39 dozen: 2
+plain	jelly		coconut		honey-dip
+108		117		99		88		
+109		118				89		
+110		119				90		
+111		120						
+								
+								
+								
+								
+								
+								
+								
+								
+Running Consumer Process: 20661	time: 14:48:39 dozen: 3
+plain	jelly		coconut		honey-dip
+117		125		108		98		
+118		126		109				
+119		127		110				
+120		128						
+								
+								
+								
+								
+								
+								
+								
+								
+Running Consumer Process: 20661	time: 14:48:39 dozen: 4
+plain	jelly		coconut		honey-dip
+126		133		121		104		
+127		134		122				
+128		135						
+129		136						
+		137						
+								
+								
+								
+								
+								
+								
+								
+Running Consumer Process: 20661	time: 14:48:39 dozen: 5
+plain	jelly		coconut		honey-dip
+134		141		126		107		
+135		142		127		108		
+136				128		109		
+						110		
+								
+								
+								
+								
+								
+								
+								
+								
+Running Consumer Process: 20661	time: 14:48:39 dozen: 6
+plain	jelly		coconut		honey-dip
+139		144		133		116		
+140		145		134		117		
+141		146		135				
+				136				
+								
+								
+								
+								
+								
+								
+								
+								
+Running Consumer Process: 20661	time: 14:48:39 dozen: 7
+plain	jelly		coconut		honey-dip
+145		148		142		121		
+146		149		143		122		
+		150		144				
+				145				
+				146				
+								
+								
+								
+								
+								
+								
+								
+Running Consumer Process: 20661	time: 14:48:39 dozen: 8
+plain	jelly		coconut		honey-dip
+147		151		147		123		
+148		152		148		124		
+149		153		149				
+150								
+								
+								
+								
+								
+								
+								
+								
+								
+Running Consumer Process: 20661	time: 14:48:39 dozen: 9
+plain	jelly		coconut		honey-dip
+151		154		150		125		
+152				151		126		
+				152		127		
+				153		128		
+						129		
+								
+								
+								
+								
+								
+								
+								
+Running Consumer Process: 20661	time: 14:48:39 dozen: 10
+plain	jelly		coconut		honey-dip
+153		155		154		130		
+154				155		131		
+155				156		132		
+				157				
+				158				
+								
+								
+								
+								
+								
+								
+								
+Handled Signal: 0
